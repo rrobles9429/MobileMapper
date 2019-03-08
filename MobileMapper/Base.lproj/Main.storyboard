@@ -32,7 +32,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="MuI-L9-lfx">
-                        <barButtonItem key="leftBarButtonItem" title="Zoom" id="s8U-Xo-ePh">
+                        <barButtonItem key="leftBarButtonItem" title="Zoom 👏🧐" id="s8U-Xo-ePh">
                             <connections>
                                 <action selector="whenZoomButtonPressed:" destination="BYZ-38-t0r" id="5ec-rt-Wcm"/>
                             </connections>
